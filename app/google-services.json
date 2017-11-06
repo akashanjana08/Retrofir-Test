@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "581006188649",
+    "firebase_url": "https://retrofittest-d6780.firebaseio.com",
+    "project_id": "retrofittest-d6780",
+    "storage_bucket": "retrofittest-d6780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581006188649:android:963ac409b324f1ff",
+        "android_client_info": {
+          "package_name": "test.tv.rs.com.retrofittest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581006188649-rr3ugovt8cil96p08g7m3p0r2iuvbtb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "test.tv.rs.com.retrofittest",
+            "certificate_hash": "321fefe2ddf13caf4392817f7592e10651f96749"
+          }
+        },
+        {
+          "client_id": "581006188649-7e4sk6fdpa1vi6erqb2q7pr9cfmg1r4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCsWc-N5VFxw2CEm7w-cxy3Lr2P4UmIvE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581006188649-7e4sk6fdpa1vi6erqb2q7pr9cfmg1r4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
